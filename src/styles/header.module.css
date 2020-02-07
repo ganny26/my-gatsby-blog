@@ -1,12 +1,11 @@
-ul.navigation{
+ul.navigation {
   list-style: none;
-margin: 0px;
-padding: 0px;
-
-height: 50px;
+  margin: 0px;
+  padding: 0px;
+  height: 50px;
 }
 
-ul.navigation > li{
+ul.navigation > li {
   float: left;
   margin-right: 10px;
 }

@@ -1,0 +1,21 @@
+.titlespace {
+  margin-bottom: 10px;
+}
+.titlecolor {
+  margin-bottom: 20px;
+  display: block;
+  color: #736f6f;
+}
+
+.titlelink{
+  text-decoration: none;
+  color: black;
+}
+
+.titlelink:hover{
+  text-decoration: underline;
+}
+
+a:hover{
+  color: black;
+}
